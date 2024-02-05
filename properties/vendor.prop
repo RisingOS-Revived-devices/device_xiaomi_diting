@@ -1,2 +1,5 @@
+# Bluetooth
+bluetooth.device.default_name=Xiaomi 12T Pro
+
 # Sensors
 ro.vendor.sensors.xiaomi.udfps=true
