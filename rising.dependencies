@@ -1,0 +1,50 @@
+[
+    { 
+        "remote"       : "github",
+        "repository"   : "LineageOS/android_device_xiaomi_diting",
+        "target_path"  : "device/xiaomi/diting",
+        "branch"       : "lineage-22.2"
+    },
+    { 
+        "remote"       : "github",
+        "repository"   : "Android-Unofficial/android_device_xiaomi_sm8450-common",
+        "target_path"  : "device/xiaomi/sm8450-common",
+        "branch"       : "RisingOS-15"
+    },
+    { 
+        "remote"       : "github",
+        "repository"   : "TheMuppets/proprietary_vendor_xiaomi_diting",
+        "target_path"  : "vendor/xiaomi/diting",
+        "branch"       : "lineage-22.2"
+    },
+    { 
+        "remote"       : "github",
+        "repository"   : "TheMuppets/proprietary_vendor_xiaomi_sm8450-common",
+        "target_path"  : "vendor/xiaomi/sm8450-common",
+        "branch"       : "lineage-22.2"
+    },
+    { 
+        "remote"       : "github",
+        "repository"   : "LineageOS/android_hardware_xiaomi",
+        "target_path"  : "hardware/xiaomi",
+        "branch"       : "lineage-22.2"
+    },
+    { 
+        "remote"       : "github",
+        "repository"   : "dopaemon/android_kernel_xiaomi_common",
+        "target_path"  : "kernel/xiaomi/sm8450",
+        "branch"       : "Rebase"
+    },
+    { 
+        "remote"       : "github",
+        "repository"   : "LineageOS/android_kernel_xiaomi_sm8450-devicetrees",
+        "target_path"  : "kernel/xiaomi/sm8450-devicetrees",
+        "branch"       : "lineage-22.2"
+    },
+    { 
+        "remote"       : "github",
+        "repository"   : "LineageOS/android_kernel_xiaomi_sm8450-modules",
+        "target_path"  : "kernel/xiaomi/sm8450-modules",
+        "branch"       : "lineage-22.2"
+    }
+]
